@@ -88,7 +88,7 @@ print("\nTransformation Completed Successfully.")
 print("\nTransformed Dataset Preview:")
 print(positive_data.head())
 
-# Output:
+# OUTPUT:
 
   <img width="878" height="767" alt="Screenshot 2026-02-25 141817" src="https://github.com/user-attachments/assets/2b80f9d8-849f-49ad-81db-49443b0deb06" />
 
